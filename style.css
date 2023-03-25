@@ -8,7 +8,38 @@
 }
 
 :root {
+
+    --cor:var(--cor01-) #050a30;
+    --cor:var(--cor02-) #5cb6f9;
+    --cor:var(--cor03-) #ffffff;
+
+
     --font:var(--font01-) arial, helvetica, sans-serif;
     --font:var(--font02-) 'Libre Baskerville', serif;
 } 
+
+    body {
+        background-color: white;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    header {
+        background-color: #050a30 ;
+        height: 30vh;
+        margin: -10px;
+        
+   
+    }
+
+    header div.img {
+        margin: auto;
+       
+
+    header nav {
+        padding: 10px;
+        margin: 10px;
+        
+
+    }
+
 
