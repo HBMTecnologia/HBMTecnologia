@@ -1,0 +1,6 @@
+FONTES E CORES
+
+
+#050a30 azul escuro 
+#5cb6f9 azul claro
+#ffffff  branco
